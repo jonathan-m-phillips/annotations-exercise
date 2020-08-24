@@ -14,7 +14,4 @@ public class Person {
         return String.format("%s %s", firstName, lastName);
     }
 
-    public String sortName(){
-        return firstName + lastName;
-    }
 }
